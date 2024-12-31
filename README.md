@@ -12,42 +12,25 @@
 
 ## 🚀 Profile Highlights 
 
-```cpp
-#include <iostream>
-#include <string>
-#include <vector>
-#include <unordered_map>
+```bash
+#!/bin/bash
 
-class NirajRoy {
-private:
-    const std::string username = "NirajRoy43";
-    const std::string name = "Niraj Roy";
-    const std::string web = "https://nir4j.vercel.app";
-    const std::unordered_map<std::string, std::vector<std::string>> code = {
-        {"frontend", {"HTML", "CSS", "JavaScript", "React", "Bootstrap"}},
-        {"backend", {"Python", "Flask", "Node.js", "Express", "C++"}},
-        {"database", {"MongoDB", "MySQL"}},
-        {"devops", {"Docker", "GitHub Actions", "AWS"}},
-        {"tools", {"GIT", "GitHub", "Pandas", "VSCode"}},
-        {"misc", {"Firebase", "GNU/Linux"}}
-    };
-    const std::vector<std::string> architecture = {"SPA", "Serverless"};
+NirajRoy() {
+    local name="Niraj Roy"
+    declare -A code_frontend=([0]="HTML" [1]="CSS" [2]="JavaScript" [3]="React" [4]="Bootstrap")
+    declare -A code_backend=([0]="Python" [1]="Flask" [2]="Node.js" [3]="Express" [4]="C++")
+    declare -A code_database=([0]="MongoDB" [1]="MySQL")
+    declare -A code_devops=([0]="Docker" [1]="GitHub Actions" [2]="AWS")
+    declare -A code_tools=([0]="GIT" [1]="GitHub" [2]="Pandas" [3]="VSCode")
+    declare -A code_misc=([0]="Firebase" [1]="GNU/Linux")
+    architecture=("SPA" "Serverless")
 
-public:
-    std::string toString() const {
-        return name;
-    }
-
-    void say_hi() const {
-        std::cout << "Arigato 🍂" << std::endl;
-    }
-};
-
-int main() {
-    NirajRoy me;
-    me.say_hi();
-    return 0;
+    echo "$name"
+    echo "Arigato 🍂"
 }
+
+NirajRoy
+
 
 ```
 
