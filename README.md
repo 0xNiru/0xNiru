@@ -53,12 +53,6 @@ NirajRoy
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NemesisRoy&theme=dracula&hide_border=true" alt="Nemesis's streak"/>
 </p>
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NemesisRoy&theme=react-dark&hide_border=true&area=true" width="100%">
-</p>
-
 
 
 <h3 align="left">💌 Connect with me:</h3>
