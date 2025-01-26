@@ -10,7 +10,7 @@
 </p>
 
 
-## 🚀 Profile Highlights 
+## 🚀 Profile Highlight 
 
 ```bash
 #!/bin/bash
