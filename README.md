@@ -43,7 +43,7 @@ NirajRoy
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xNiruj&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="150%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=0xNiru&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="150%"/>
 </p>
 
 
