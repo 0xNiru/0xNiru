@@ -50,7 +50,7 @@ NirajRoy
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okay-niraj&theme=dracula&hide_border=true" alt="Niraj's streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xNiru&theme=dracula&hide_border=true" alt="Niraj's streak"/>
 </p>
 
 
@@ -74,7 +74,7 @@ NirajRoy
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NirajRoy43&label=Profile%20views&color=0e75b6&style=flat" alt="NirajRoy43" />
+  <img src="https://komarev.com/ghpvc/?username=0xNiru&label=Profile%20views&color=0e75b6&style=flat" alt="NirajRoy43" />
 </p>
 
 <div align="center">
