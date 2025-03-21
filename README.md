@@ -62,8 +62,7 @@ NirajRoy
 <a href="https://codeforces.com/profile/okayniraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xyz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/0xNiru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xyz" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/Okayniraj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="xyz" height="30" width="40" /></a>
-   <a href="https://hashnode.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="xyz" height="30" width="40" /></a>
-<a
+   
 </p>
 
   ### 🎯 Up for a strategic showdown?
