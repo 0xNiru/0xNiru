@@ -76,5 +76,5 @@ NirajRoy
   <img src="https://komarev.com/ghpvc/?username=0xNiru&label=Profile%20views&color=0e75b6&style=flat" alt="NirajRoy43" />
 </p>
 
-<div align="center">
+
   
